@@ -1,3 +1,27 @@
+## Product Finders
+
+  - [PC Magazine - Brands](https://www.pcmag.com/brands)
+
+  - [The SG Broadband Hardware Database](https://www.speedguide.net/broadband.php)
+
+  - [Product Finder | Wi-Fi Alliance](https://www.wi-fi.org/product-finder)
+
+  - [Searchable FCC ID Database](https://fccid.io/)
+
+  - [Provantage - Main Index](https://www.provantage.com/main-index~xcateg.htm)
+
+  - [CDW Product Finders](https://www.cdw.com/content/cdw/en/product-finders.html)
+
+  - [Product Finder | EPA ENERGY STAR](https://www.energystar.gov/productfinder/)
+
+  - [Product Finder | Chemical Guys](https://www.chemicalguys.com/product-finders/)
+
+  - [Product Finder | PCB Piezotronics](https://www.pcb.com/products/product-finder)
+
+  - [Product Finder | Monoprice](https://www.monoprice.com/)
+
+  - [Hardware Providers: Companies that provide components needed for data center operation including but not limited to routers, switches, access points, servers, cables, power generators, cooling towers and more.](https://www.edgeir.com/service-directory/hardware-providers)
+
 ## SANS Security Awareness: Managing Human Risk Summit (Thu. Aug. 24)
 
   - [A Visual Summary of SANS Security Awareness: Managing Human Risk Summit 2023](https://www.sans.org/blog/a-visual-summary-of-sans-security-awareness-managing-human-risk-summit-2023/)
