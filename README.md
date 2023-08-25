@@ -28,6 +28,8 @@
 
   - [The Security Awareness Company](https://www.thesecurityawarenesscompany.com)
 
+  - [Insights on Human Cybersecurity Risk from ChatGPT](https://chat.openai.com/share/b5026bbd-5fe6-4375-b3d8-d240537d11ce)
+
 ## Information Security Publications
 
   - [About
@@ -1042,9 +1044,11 @@
 
 ## Encryption
 
-  - <https://smartninja-pgp.appspot.com/>
+  - [SmartNinja Online PGP - A simple and easy to use client-side PGP system ](https://smartninja-pgp.appspot.com/)
 
-  - <https://keybase.io/>
+  - [Keybase - secure messaging and file-sharing](https://keybase.io/)
+
+  - [CyberChef Encryption Tools](https://gchq.github.io/CyberChef/)
 
 ## Open Source Intelligence
 
