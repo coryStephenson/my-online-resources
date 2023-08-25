@@ -1,6 +1,32 @@
-<div id="filteredLinksContainer">
+## SANS Security Awareness: Managing Human Risk Summit (Thu. Aug. 24)
 
-</div>
+  - [A Visual Summary of SANS Security Awareness: Managing Human Risk Summit 2023](https://www.sans.org/blog/a-visual-summary-of-sans-security-awareness-managing-human-risk-summit-2023/)
+
+  - [SANS 2023 Security Awareness Report: Managing Human Risk](https://go.sans.org/wp_2023_security_awareness_report.pdf)
+
+  - [Agenda for SANS 2023 Security Awareness: Managing Human Risk Summit](sansorg.egnyte.com/dl/XtzuoDouoZ)
+
+  - [Zerodium Exploit Acquisition Program](https://zerodium.com/program.html)
+
+  - [Free Resources from SANS](https://www.sans.org/security-resources/)
+
+  - [The Ultimate Guide to Cyber Security Culture](https://www.cygenta.co.uk/cyber-security-culture-guide)
+
+  - [National Cybersecurity Alliance Home Page](https://staysafeonline.org/)
+
+  - [Cybersecurity Awareness Month Champion Organizations](https://staysafeonline.org/programs/cam-champion-organizations/)
+
+  - [Teach Others How To Stay Safe Online](https://staysafeonline.org/programs/cybersecurity-awareness-month/teach-others-how-to-stay-safe-online/)
+
+  - [Online Dating and Romance Scams Education Toolkit](https://staysafeonline.org/resources/romance-scams-toolkit/)
+
+  - [Cyberbullying Education and Awareness Toolkit](https://staysafeonline.org/resources/anti-cyberbullying-toolkit/)
+
+  - [Vacation and Travel Security Toolkit](https://staysafeonline.org/resources/vacation-and-travel-security-tips/)
+
+  - [Safe Online Holiday Shopping Toolkit](https://staysafeonline.org/resources/safe-online-holiday-shopping/)
+
+  - [The Security Awareness Company](https://www.thesecurityawarenesscompany.com)
 
 ## Information Security Publications
 
