@@ -1076,11 +1076,21 @@
 
 ## Open Source Intelligence
 
-  - <https://osintframework.com/>
+  - [OSINT Framework](https://osintframework.com/)
 
   - <https://censys.io/>
 
   - <https://www.shodan.io/>
+
+  - [Google Hacking DB](http://www.exploit-db.com/google-dorks/)
+  
+  - [Maltego - Automate Cybercrime Investigations](https://www.maltego.com/)
+
+  - [Shodan](http://www.shodanhq.com)
+
+  - [OWASP Mantra](http://www.getmantra.com)
+
+  - [Veresoftware Toolbar](http://veresoftware.com/index.php?page=downloads)
 
 ## LaTeX
 
