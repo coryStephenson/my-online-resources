@@ -1,3 +1,23 @@
+## How I Stay Informed
+
+  - [Momentum Cyber Market Reviews](https://momentumcyber.com/intel/#tab-id-1)
+
+  - [CWE Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/)
+
+  - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
+
+  - [Hardware News Aggregator](https://hwurls.com/)
+
+  - [Linux News Aggregator](https://tuxurls.com/)
+
+  - [Developer News Aggregator](https://devurls.com/)
+
+  - [Technology News Aggregator](https://techurls.com/)
+
+  - [Security News Aggregator]()
+
+  - [Financial News Aggregator](https://finurls.com/)
+
 ## NIST Cybersecurity Framework
 
   - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
