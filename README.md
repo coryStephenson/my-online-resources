@@ -2115,4 +2115,19 @@ ffmpeg](https://gist.github.com/FranciscoG/c63760be6d77ab44d919772b2b7b8f82)
 
   - [Xah Lee](http://xahlee.info/index.html)
 
-  - 
+  - [Tanel Poder](https://tanelpoder.com/downloads/)
+
+  - [Steve Litt](http://www.troubleshooters.com/#x10021)
+
+  - [Alan Xiang](http://www.alanshawn.com/)
+
+  - [Brett Slatkin](https://www.onebigfluke.com/)
+
+  - [Jake Hofman](http://jakehofman.com/)
+
+  - [Brendan Gregg](https://www.brendangregg.com/)
+
+  - [John Masserini](https://johnmasserini.com/)
+
+  - [Didier Stevens](https://blog.didierstevens.com/)
+
