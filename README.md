@@ -2090,3 +2090,29 @@ ffmpeg](https://gist.github.com/FranciscoG/c63760be6d77ab44d919772b2b7b8f82)
     eLinux.org](https://www.google.com/url?q=https://elinux.org/Screen_Casting_on_a_Raspberry_Pi%23:~:text%3DNow%2520you%2520can%2520control%2520the,in%2520a%2520YouTube%2520native%2520form.&source=gmail-html&ust=1637262213488000&usg=AOvVaw1oFoPMBrfFcHRruKOZzc8E)
 
 ### Helpful Blogs
+
+  - [Bob Cromwell](https://cromwell-intl.com)
+
+  - [Josh Davis](https://joshldavis.com/)
+
+  - [Jolanda de Kaff](https://hackingpassion.com)
+
+  - [Nabeel Ahmed](https://krbtgt.pw/)
+
+  - [Moxie Marlinspike](https://moxie.org)
+
+  - [Jean-Paul Linnartz](http://www.wirelesscommunication.nl/)
+
+  - [Pierluigi Paganini](https://securityaffairs.com/)
+
+  - [Julia Evans](https://jvns.ca/)
+
+  - [Jeremy Stretch](https://packetlife.net/)
+
+  - [Yihan Pang](https://jianxiapyh.github.io/sitemap/)
+
+  - [John F. Moore](https://www.lions-wing.net/lessons/index.html)
+
+  - [Xah Lee](http://xahlee.info/index.html)
+
+  - 
