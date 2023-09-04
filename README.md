@@ -2,9 +2,13 @@
 
   - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
 
+  - [command-not-found.com](https://command-not-found.com/)
+
   - [PLDB: a Programming Language Database](https://codeberg.org/lngns/pldb)
 
   - [Database of Databases](https://dbdb.io/)
+
+  - [Data Center Map - Colocation, Cloud, and Connectivity](https://www.datacentermap.com/)
 
   - [Codeberg.org | Collaboration platform for FOSS](https://codeberg.org/)
   
@@ -14,7 +18,9 @@
 
   - [GrabThisCode | Code examples for programmers](https://grabthiscode.com/)
 
-  - 
+  - [thiscodeWorks](https://www.thiscodeworks.com/)
+
+  - [disasm.pro | Online Assembler and Disassembler](https://disasm.pro/) 
 
 ## Reference Models, Reference Architectures, Frameworks, Killchains, Protocol Stacks
 
