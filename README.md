@@ -1,3 +1,17 @@
+## Reference Models, Reference Architectures, Frameworks, Killchains, Protocol Stacks
+
+  - [Difference between a reference architecture and reference model](https://wiki.cac.washington.edu/display/EA/About+Reference+Architectures+and+Reference+Models)
+
+  - [OSI Reference Model](https://osi-model.com/)
+
+  - [Another OSI Model - interactive reference](https://elahmo.github.io/interactive-tcp-ip/)
+
+  - [TCP/IP Reference Model a.k.a. DOD Model](http://www.tcpipguide.com/free/t_TCPIPProtocols.htm)
+
+  - [TCP/IP Model Mapped to OSI Model](https://www.scribd.com/document/405723668/OSI-Model#)
+
+  -  
+
 ## How I Stay Informed
 
   - [Momentum Cyber Market Reviews](https://momentumcyber.com/intel/#tab-id-1)
@@ -49,6 +63,8 @@
   - [Product Finder | PCB Piezotronics](https://www.pcb.com/products/product-finder)
 
   - [Product Finder | Monoprice](https://www.monoprice.com/)
+
+  - [List of websites for buying electronic components](https://www.build-electronic-circuits.com/buy-electronic-components/)
 
   - [Hardware Providers: Companies that provide components needed for data center operation including but not limited to routers, switches, access points, servers, cables, power generators, cooling towers and more.](https://www.edgeir.com/service-directory/hardware-providers)
 
