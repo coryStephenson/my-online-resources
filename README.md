@@ -48,6 +48,8 @@
 
   - [Momentum Cyber Market Reviews](https://momentumcyber.com/intel/#tab-id-1)
 
+  - [Center for Strategic & International Studies | Significant Cyber Incidents Download](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents)
+
   - [CWE Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/)
 
   - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
