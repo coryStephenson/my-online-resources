@@ -1,3 +1,21 @@
+## Code Search Engines
+
+  - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
+
+  - [PLDB: a Programming Language Database](https://codeberg.org/lngns/pldb)
+
+  - [Database of Databases](https://dbdb.io/)
+
+  - [Codeberg.org | Collaboration platform for FOSS](https://codeberg.org/)
+  
+  - [searchcode | source code search engine](https://searchcode.com/)
+
+  - [Grepper | The Query & Answer System for the Ambitious Developer](https://www.grepper.com/)
+
+  - [GrabThisCode | Code examples for programmers](https://grabthiscode.com/)
+
+  - 
+
 ## Reference Models, Reference Architectures, Frameworks, Killchains, Protocol Stacks
 
   - [Difference between a reference architecture and reference model](https://wiki.cac.washington.edu/display/EA/About+Reference+Architectures+and+Reference+Models)
