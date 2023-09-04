@@ -8,9 +8,17 @@
 
   - [TCP/IP Reference Model a.k.a. DOD Model](http://www.tcpipguide.com/free/t_TCPIPProtocols.htm)
 
-  - [TCP/IP Model Mapped to OSI Model](https://www.scribd.com/document/405723668/OSI-Model#)
+  - [TCP/IP Model Mapped to OSI Model](https://github.com/coryStephenson/my-online-resources/blob/main/20221129-detailed-osi-model.png)
 
-  -  
+  - [IEEE 802 Model]
+
+  - [ATM Reference Model]
+
+  - [B-ISDN Protocol Reference Model]
+
+  - [IETF IoT Protocol Stack]
+
+  - [Bluetooth Stack] 
 
 ## How I Stay Informed
 
