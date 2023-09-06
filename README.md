@@ -50,7 +50,17 @@
 
   - [Bluetooth Stack]
 
-  - [Unified Killchain - Raising Resilience Against Cyber Attacks](https://www.unifiedkillchain.com/) 
+  - [Unified Killchain - Raising Resilience Against Cyber Attacks](https://www.unifiedkillchain.com/)
+
+  - [The Cyber Kill Chain, developed by Lockheed Martin](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+
+  - [MITRE ATT&CK Framework](http://attack.mitre.org/)
+
+  - [MITRE ATT&CK Navigator -  a web-based tool for annotating and exploring ATT&CK matrices](https://mitre-attack.github.io/attack-navigator/)
+
+  - [The DeTT&CT Framework, developed by the Cyber Defence Center of Rabobank](https://rabobank-cdc.github.io/dettect-editor/#/home)
+
+  - [About the DeTT&CT Framework](https://blog.nviso.eu/2022/03/09/dettct-mapping-detection-to-mitre-attck/) 
 
 ## How I Stay Informed
 
