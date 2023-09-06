@@ -1,3 +1,7 @@
+## Regulatory Compliance
+
+  - [Compliance Forge](https://www.complianceforge.com/)
+
 ## Code Search Engines
 
   - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
@@ -77,6 +81,8 @@
   - [CSF Tools](https://csf.tools/)
 
 ## Product Finders
+
+  - [MotherboardDB - Database of Motherboard Specifications](https://motherboarddb.com/)
 
   - [PC Magazine - Brands](https://www.pcmag.com/brands)
 
