@@ -2,6 +2,8 @@
 
   - [Compliance Forge](https://www.complianceforge.com/)
 
+  - [Unified Compliance Framework (UCF)](https://www.unifiedcompliance.com/)
+
 ## Code Search Engines
 
   - [Developer Roadmaps - roadmap.sh](https://roadmap.sh/)
@@ -46,7 +48,9 @@
 
   - [IETF IoT Protocol Stack]
 
-  - [Bluetooth Stack] 
+  - [Bluetooth Stack]
+
+  - [Unified Killchain - Raising Resilience Against Cyber Attacks](https://www.unifiedkillchain.com/) 
 
 ## How I Stay Informed
 
