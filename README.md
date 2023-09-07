@@ -1,3 +1,17 @@
+## Privacy
+
+  - [Download Privacy - We Know Torrent Privacy](https://www.downloadprivacy.com/)
+
+  - [Virtual Cards That Protect Your Payments | Online Payment Security](https://privacy.com/)
+
+  - [Privacy Tools Guide: Website for Encrypted Software & Apps](https://www.privacytools.io/)
+
+  - [Privacy Affairs: Online privacy resources, guides & research](https://www.privacyaffairs.com/)
+
+  - [Privacy Guides: Your Independent Privacy and Security](https://www.privacyguides.org/en/)
+
+  - [Defensive Computing Checklist](https://defensivecomputingchecklist.com/)
+
 ## Regulatory Compliance
 
   - [Compliance Forge](https://www.complianceforge.com/)
