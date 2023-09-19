@@ -88,6 +88,8 @@
 
 ## How I Stay Informed
 
+  - [Valerii Marchuk's Zero-Day Tracking Project](http://www.zero-day.cz/)
+
   - [Momentum Cyber Market Reviews](https://momentumcyber.com/intel/#tab-id-1)
 
   - [Center for Strategic & International Studies | Significant Cyber Incidents Download](https://www.csis.org/programs/strategic-technologies-program/significant-cyber-incidents)
