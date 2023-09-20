@@ -88,6 +88,8 @@
 
 ## How I Stay Informed
 
+  - [Project Zero - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/)
+
   - [Valerii Marchuk's Zero-Day Tracking Project](http://www.zero-day.cz/)
 
   - [Momentum Cyber Market Reviews](https://momentumcyber.com/intel/#tab-id-1)
