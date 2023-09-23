@@ -1,3 +1,5 @@
+  - [Kapeli Developer Cheatsheets](https://kapeli.com/cheatsheets)
+
 ## Stock Images
 
   - [Pexels - Free Stock Photos, Royalty Free Stock Images & Copyright Free Pictures](https://www.pexels.com/)
